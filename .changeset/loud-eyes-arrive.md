@@ -1,0 +1,5 @@
+---
+"@pokemonon/temanager": patch
+---
+
+initial

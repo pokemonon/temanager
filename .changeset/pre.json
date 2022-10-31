@@ -1,0 +1,10 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "@pokemonon/temanager": "0.0.1"
+  },
+  "changesets": [
+    "loud-eyes-arrive"
+  ]
+}
