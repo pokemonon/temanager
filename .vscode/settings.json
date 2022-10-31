@@ -1,0 +1,33 @@
+{
+  "editor.formatOnSave": false,
+
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "vue",
+    "html",
+    "json",
+    "jsonc",
+    "json5",
+    "markdown"
+  ],
+
+  "stylelint.enable": true,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "stylelint.validate": [
+    "css",
+    "less",
+    "scss",
+    "vue"
+  ],
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true, // 保存时自动修复eslint
+    "source.fixAll.stylelint": true
+  },
+  "testing.automaticallyOpenPeekView": "never"
+}
